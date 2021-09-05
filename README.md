@@ -3,6 +3,8 @@ Ever seen a thread on Reddit where two+ people are fighting in the comments? I h
 
 This is where `flame-war` will come in handy! The idea is simple: you feed in a Reddit post URL, and receive a [flame graph](https://www.brendangregg.com/flamegraphs.html) output visualizing the stack of the comments.
 
+Note: For [crate.io](https://crates.io/crates/flame-war), the fully implemented version will begin with the **1.0** release. Until then, I hope you enjoy the process :]
+
 ## Motivation
 I love flame graphs. Since starting to use them for profiling CPUs, I've been curious to see other mediums they can be used in. Additionally, I've been wanting to practice more writing code in [Rust🦀](https://www.rust-lang.org/). So why not combine both into one fun project?
 

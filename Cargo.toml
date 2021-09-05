@@ -1,6 +1,6 @@
 [package]
 name = "flame-war"
-version = "0.1.0"
+version = "0.1.1"
 description = "A flame graph generator for Reddit threads. See the depths that a flame-war can go"
 authors = ["Andrew Pollack <andrewpkq@gmail.com>"]
 license = "MIT"
